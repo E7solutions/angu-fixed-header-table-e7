@@ -1,8 +1,8 @@
 /**
  * AngularJS fixed header scrollable table directive
  * @author Jason Watmore <jason@pointblankdevelopment.com.au> (http://jasonwatmore.com)
- 
- * @version 1.2.0
+
+ * @version 1.2.1
  */
 (function () {
     angular
